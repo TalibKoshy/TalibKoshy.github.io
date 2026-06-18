@@ -1,3 +1,3 @@
-# RosemaryKoshy.GitHub.io
+# TalibKoshy.GitHub.io
 
-Rosemary Koshy <rosemary.koshy@reed.edu>
+Rosemary Koshy <talib@pdx.edu>
